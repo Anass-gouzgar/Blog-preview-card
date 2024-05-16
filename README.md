@@ -14,7 +14,7 @@ this entire section.**
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/blog-preview-card-solution-9GGMuchY3N)
 - Live Site URL: (https://blog-preview-card-chalenge.vercel.app/)
 
 ## My process
