@@ -12,6 +12,15 @@ module.exports = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      colors: {
+        myYellow: "hsl(47, 88%, 63%)",
+        myWhite: "hsl(0, 0%, 100%)",
+        myGrey: "hsl(0, 0%, 50%)",
+        myBlack: " hsl(0, 0%, 7%)",
+      },
+      fontFamily: {
+        Figtree: ["Figtree", "sans-serif"],
+      },
     },
   },
   plugins: [],
